@@ -1,1 +1,4 @@
-
+S = 10/1.61
+T = 43.5/60
+Tm = T/S
+print(Tm,"horas")
